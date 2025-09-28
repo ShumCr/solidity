@@ -14,7 +14,7 @@
     You should have received a copy of the GNU General Public License
     along with solidity.  If not, see <http://www.gnu.org/licenses/>. 
 	1 2 3 4 5 6 7 8 9 0
-	1 2 3 4 5 6
+	1 2 3 4 5 6 7
 */
 /**
  * @author Christian <c@ethdev.com>
